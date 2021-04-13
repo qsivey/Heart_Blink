@@ -1,0 +1,6 @@
+Added Component: Designator=R?(AXIAL12R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "#FF0000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_2 Pin=R?-1
+Added Pin To Net: NetName=NetLED24_2 Pin=R?-2
+Added Member To Class: ClassName=HeartBlink Member=Component R? #FF0000

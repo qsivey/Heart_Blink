@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=P1 Old Footprint=H2-5.08 New Footprint=ST-213
+Change Component Comment : Designator=P1 Old Comment=31-011-02 New Comment=ST-213
+Change Component Comment : Designator=VT1 Old Comment=BC547BTA New Comment=BC547
+Change component parameters: Designator = "P1"; Footprint = "ST-213"; UniqueID = "\YOJHJFAB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "ST-213"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1"; Footprint = "TO-92"; UniqueID = "\BWFKBOOX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "BC547"; VariantName = "[No Variations]"

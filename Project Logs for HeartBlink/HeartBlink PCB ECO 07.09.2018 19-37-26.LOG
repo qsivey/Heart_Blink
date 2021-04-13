@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P1 Old Comment=ST-213 New Comment=DS-213
+Change component parameters: Designator = "P1"; Footprint = "ST-213"; UniqueID = "\YOJHJFAB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Name"; Value = "DS-213"; VariantName = "[No Variations]"
